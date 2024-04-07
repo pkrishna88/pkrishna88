@@ -1,10 +1,10 @@
 Hi There... 👋
 
 I'm a Data Engineer...
-Passioned to handle data. data anlaysis and desgin data flow 
+Passionated to deal with data - Data is the Power!!
 
 Skills:
-- Python ![image](https://github.com/pkrishna88/pkrishna88/assets/16010661/a62cf511-5a37-4d7b-bf2f-852e24bfe7dc)
+- Python
 - SQL 
 - GCP-BQ
 - GCP-Logger
