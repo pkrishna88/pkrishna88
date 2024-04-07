@@ -1,6 +1,6 @@
 Hi There... 👋
 
-Happy to see you here.. ![visitors](https://visitor-badge.glitch.me/badge?page_id=pkrishna88)
+Happy to see you here...
 
 I'm a Data Engineer...
 
