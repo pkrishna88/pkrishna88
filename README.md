@@ -2,16 +2,13 @@ Hi There... 👋
 
 I'm a Data Engineer...
 
-Passionated to deal with data - Data is the Power!!
+![image](https://github.com/pkrishna88/pkrishna88/assets/16010661/d4af8e8b-b122-4679-a1e8-b5114d1909e0)
 
-Skills:
-- Python
-- SQL 
-- GCP-BQ
-- GCP-Logger
-- GCP-DataFlow
-- GCP-CloudComposer
-- Apache-Airflow
+Passionated to deal with data & analytics - Data is the Power💪!!
+
+Skills Stack:
+|Python|SQL|GCP-BQ|GCP-Logger|GCP-DataFlow|GCP-CloudComposer|Apache-Airflow|
+
 
 <!--
 ### Hi there 👋
