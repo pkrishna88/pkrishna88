@@ -1,10 +1,8 @@
 Hi There... 👋
 
-Happy to see you here.. ![visitors](https://visitor-badge.glitch.me/badge?${pkrishna88}.${pkrishna88})
+Happy to see you here.. ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 I'm a Data Engineer...
-
-![image](https://github.com/pkrishna88/pkrishna88/assets/16010661/d4af8e8b-b122-4679-a1e8-b5114d1909e0)
 
 Passionated to deal with data & analytics - Data is the Power💪!!
 
